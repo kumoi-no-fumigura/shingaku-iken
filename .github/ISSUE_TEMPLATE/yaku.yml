@@ -1,6 +1,6 @@
 name: 訳の誤り
 description: 現代語訳の誤りや、よりよい訳を知らせる
-title: "[訳] 新学異見 "
+title: "[訳] 新学異見（日本歌学全書本） "
 labels: ["訳"]
 body:
   - type: input
